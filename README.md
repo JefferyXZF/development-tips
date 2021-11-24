@@ -46,3 +46,4 @@
 - [简化懒性加载](https://github.com/JefferyXZF/development-tips/tree/master/03-JavaScript#简化懒性加载)
 - [优化扫码识别](https://github.com/JefferyXZF/development-tips/tree/master/03-JavaScript#优化扫码识别)
 - [自动播放媒体](https://github.com/JefferyXZF/development-tips/tree/master/03-JavaScript#自动播放媒体)
+- [自动播放媒体](https://github.com/JefferyXZF/development-tips/tree/master/03-JavaScript#自动播放媒体)
