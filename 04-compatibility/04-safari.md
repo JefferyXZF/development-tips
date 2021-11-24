@@ -1,0 +1,22 @@
+# safari 浏览器兼容性
+
+### 针对Safari配置
+
+`Safari`较零散且少用的配置。
+
+```html
+<!-- 设置Safari全屏，在iOS7+无效 -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!-- 改变Safari状态栏样式，可选default/black/black-translucent，需在上述全屏模式下才有效 -->
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+<!-- 添加页面启动占位图 -->
+<link rel="apple-touch-startup-image" href="pig.jpg" media="(device-width: 375px)">
+
+<!-- 保存网站到桌面时添加图标 -->
+<link rel="apple-touch-icon" sizes="76x76" href="pig.jpg">
+
+<!-- 保存网站到桌面时添加图标且清除默认光泽 -->
+<link rel="apple-touch-icon-precomposed" href="pig.jpg">
+```
