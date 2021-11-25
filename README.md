@@ -47,3 +47,7 @@
 - [优化扫码识别](https://github.com/JefferyXZF/development-tips/tree/master/03-JavaScript#优化扫码识别)
 - [自动播放媒体](https://github.com/JefferyXZF/development-tips/tree/master/03-JavaScript#自动播放媒体)
 - [自动播放媒体](https://github.com/JefferyXZF/development-tips/tree/master/03-JavaScript#自动播放媒体)
+
+## 主题
+
+[vdong-theme](https://doc.xugaoyi.com/pages/793dcb/#%E5%AE%89%E8%A3%85%E5%92%8C%E5%90%AF%E5%8A%A8)
