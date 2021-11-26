@@ -5,6 +5,7 @@ module.exports = [
   { text: 'JavaScript', link: '/javascript/aaweds5c3/' },
   { text: '兼容性', link: '/compatible/cbd34567/' },
   { text: '性能优化', link: '/performance/a7d863/' },
+  { text: '前端面试', link: '/review/a7ds863/' },
   {
     text: '前端框架',
     // link: '/html/523ds5c3',  //目录页，vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页

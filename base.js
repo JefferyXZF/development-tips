@@ -1,1 +1,1 @@
-module.exports = '/vuepress-theme-vdoing-doc/'
+module.exports = '/development-tips/'
