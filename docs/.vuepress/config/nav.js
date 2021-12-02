@@ -11,10 +11,15 @@ module.exports = [
     // link: '/html/523ds5c3',  //目录页，vdoing主题新增的配置项，有二级导航时，可以点击一级导航跳到目录页
     items: [
       {
-        text: 'Vue2', link: '/vue2/91987f34/',
-        text: 'Vue3', link: '/vue3/3cdd35/',
-        text: 'React', link: '/react/6cebad/'
+        text: 'Vue2', link: '/vue2/914987f/',
       },
+      {
+        text: 'Vue3', link: '/vue3/ad323cddww35/',
+
+      },
+      {
+        text: 'React', link: '/react/6cebad/'
+      }
     ]
   },
   // {
