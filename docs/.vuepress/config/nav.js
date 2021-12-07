@@ -3,7 +3,7 @@ module.exports = [
   { text: 'HTML', link: '/html/523ds5c3/' },
   { text: 'CSS', link: '/css/wewe425c3/' },
   { text: 'JavaScript', link: '/javascript/aaweds5c3/' },
-  { text: '兼容性', link: '/compatible/cbd34567/' },
+  { text: '兼容性', link: '/compatible/cbd3de4567/' },
   { text: '性能优化', link: '/performance/a7d863/' },
   { text: '前端面试', link: '/review/a7ds863/' },
   {
